@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"todosvc"
+	"github.com/Ajmalazeem/todo_endpoint/todosvc"
 	//"github.com/gorilla/mux"
 )
 

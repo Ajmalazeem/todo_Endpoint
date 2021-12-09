@@ -6,7 +6,7 @@ import (
 
 	consulapi "github.com/hashicorp/consul/api"
 
-	
+	"github.com/Ajmalazeem/todo_endpoint/todosvc"
 	"github.com/go-kit/kit/endpoint"
 	"github.com/go-kit/kit/log"
 	"github.com/go-kit/kit/sd"
